@@ -1,0 +1,19 @@
+div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 2vh;
+}
+h1,
+p {
+  width: 80%;
+  margin: 15px;
+}
+p {
+  text-align: justify;
+}
+a {
+  text-decoration: none;
+}
